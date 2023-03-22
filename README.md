@@ -1,4 +1,4 @@
-#<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Ehsanmashuk">IT Professional</a>☺</h1>
+#<h1>Hi, I'm Mashuk, an <a href="https://linkedin.com/in/Ehsanmashuk">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
